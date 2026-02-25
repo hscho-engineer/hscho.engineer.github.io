@@ -3,6 +3,7 @@ layout: post
 title: "C++ epoll 비동기 서버: 11만 RPS 및 C10K 돌파기"
 subtitle: "프레임워크의 보호막을 걷어낸 하드코어 멀티스레딩 트러블슈팅"
 description: "프레임워크 없이 C++14와 Linux 커널 API(epoll)만으로 11만 RPS를 달성하며 세그폴트와 Heap 오염을 튜닝한 로우 레벨 부검 기록입니다."
+permalink: /c10k-troubleshooting/
 date: 2026-02-25
 categories: [Backend, C++, OS, Network]
 tags: [epoll, C10K, Multithreading, MemoryLeak, Troubleshooting, C++]
