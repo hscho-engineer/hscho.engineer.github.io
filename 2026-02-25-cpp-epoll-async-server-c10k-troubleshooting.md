@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "[C++ 백엔드 딥다이브] 프레임워크 없이 epoll 비동기 서버 구축하고 11만 RPS 돌파하기"
 date: 2026-02-25
 categories: [Backend, C++, OS, Network]
